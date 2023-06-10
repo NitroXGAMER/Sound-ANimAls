@@ -1,0 +1,35 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background:  lightgray;
+}
+
+.header_div p{
+ color: black;
+ letter-spacing: 20x;
+ font-size: 23px;
+ font-weight: bold;
+ font-family: 'Hind Madurai', sans-serif;
+}
+
+.main_div button{
+    margin-top:  30px;
+    width: 125px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color:blue;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:floralwhite;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+
+}
+h2{
+   font-size: 37px;
+}
